@@ -2,7 +2,7 @@
 
 ![Website Screenshot](/media/cs50.png)
 
-Welcome to my CS50 Homepage Website! This website is a showcase of what I have learned in my HTML, CSS, and JavaScript (JS) lectures during my CS50x journey. It's a project I created as part of a problem set for Week 8 of the course, and it reflects my growth and development in web development and design.
+Welcome to my <a href="https://muhd-dev.github.io/cs50-fanpage/index.html">CS50x Homepage Website!</a> This website is a showcase of what I have learned in my HTML, CSS, and JavaScript (JS) lectures during my CS50x journey. It's a project I created as part of a problem set for Week 8 of the course, and it reflects my growth and development in web development and design.
 
 ## Overview
 
